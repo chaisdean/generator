@@ -1,0 +1,10 @@
+/Users/capslock/Desktop/randompasscodetwo/bin/Debug/netcoreapp2.0/randompasscodetwo.deps.json
+/Users/capslock/Desktop/randompasscodetwo/bin/Debug/netcoreapp2.0/randompasscodetwo.runtimeconfig.json
+/Users/capslock/Desktop/randompasscodetwo/bin/Debug/netcoreapp2.0/randompasscodetwo.runtimeconfig.dev.json
+/Users/capslock/Desktop/randompasscodetwo/bin/Debug/netcoreapp2.0/randompasscodetwo.dll
+/Users/capslock/Desktop/randompasscodetwo/bin/Debug/netcoreapp2.0/randompasscodetwo.pdb
+/Users/capslock/Desktop/randompasscodetwo/obj/Debug/netcoreapp2.0/randompasscodetwo.csproj.CoreCompileInputs.cache
+/Users/capslock/Desktop/randompasscodetwo/obj/Debug/netcoreapp2.0/randompasscodetwo.AssemblyInfoInputs.cache
+/Users/capslock/Desktop/randompasscodetwo/obj/Debug/netcoreapp2.0/randompasscodetwo.AssemblyInfo.cs
+/Users/capslock/Desktop/randompasscodetwo/obj/Debug/netcoreapp2.0/randompasscodetwo.dll
+/Users/capslock/Desktop/randompasscodetwo/obj/Debug/netcoreapp2.0/randompasscodetwo.pdb
